@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Added inline documentation for core functions
 - Documented config options
+
+## 2026-04-15
+- Wrote notes on upcoming feature design
